@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">🇧🇬 I'm Galina from Bulgaria</div>  
+### <div align="center">
+- 🇧🇬 I'm Galina from Bulgaria</div>  
   
 
 - 👩‍🎓 Currently learning C# Web Development at SoftUni University  
