@@ -7,7 +7,7 @@
 - 🇧🇬 I'm Galina from Bulgaria</div>  
   
 
-- 👩‍🎓 Currently learning C# Web Development at SoftUni University  
+- 👩‍🎓 Currently learning React at SoftUni University  
   
 
 - ✉️ E-mail address: gal.vins301184@gmail.com  
